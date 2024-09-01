@@ -2,13 +2,13 @@
 
 **TOC**
 
-- [Introduction]("## Introduction")
-- [1. Neural Net; NN]("## 1. Neural Net; NN")
-2. Convolutional Neural Network; CNN
-3. Recurrent Neural Network; RNN
-4. Long Short-Term Memory; LSTM
-5. Transformer
-6. Visual Transformer
+- [Introduction](#introduction)
+- [1. Neural Net; NN](#1-neural-net-nn)
+- [2. Convolutional Neural Network; CNN](#)
+- [3. Recurrent Neural Network; RNN](#)
+- [4. Long Short-Term Memory; LSTM](#)
+- [5. Transformer](#)
+- [6. Visual Transformer](#)
 
 ## Introduction
 
