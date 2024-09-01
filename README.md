@@ -2,8 +2,8 @@
 
 **TOC**
 
-0. Introduction
-1. Neural Net; NN
+- [Introduction](## Introduction)
+- [1. Neural Net; NN](## 1. Neural Net; NN)
 2. Convolutional Neural Network; CNN
 3. Recurrent Neural Network; RNN
 4. Long Short-Term Memory; LSTM
