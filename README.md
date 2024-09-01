@@ -136,10 +136,10 @@ NN은 모델을 정의하고 미분하는데 `autograd`를 이용한다.
 5. 변화도(**gradient**)를 신경망의 매개변수들에 역으로 전파; **Backpropagation**
 6. 신경망의 가중치를 갱신함. *일반적으로 다음과 같은 간단한 규칙을 사용한다.*
 
-$ 업데이트된 가중치(weight) = 가중치(weight) - 학습률(learning rate) * 변화도(gradient) $
+$`업데이트된 가중치(weight) = 가중치(weight) - 학습률(learning rate) * 변화도(gradient)`$
 
 
-$ W_1 = W_0 - \eta * \frac{df}{dx} $
+$`W_1 = W_0 - \eta * \frac{df}{dx}`$
 
 ### 1.1. 신경망 정의하기
 
